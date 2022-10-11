@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.7) (preloaded format=pdflatex 2022.10.4)  4 OCT 2022 08:31
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.7) (preloaded format=pdflatex 2022.10.4)  11 OCT 2022 09:16
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -320,35 +320,63 @@ File: il2cmtt.fd 1997/08/20 CSLaTeX font definitions
 )
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 33.
+
+(abstrakt.txt
+Overfull \hbox (197.40402pt too wide) in paragraph at lines 11--13
+\IL2/cmr/m/n/10 MES'2013 USA, 2013, pp. 87-90, doi: 10.1109/CGa-mes.2013.663261
+1. https://ieeexplore.ieee.org/abstract/document/6632611 
+ []
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.14 ...s.fi/bitstream/handle/10024/171552/Mether_
+                                                  Petra.pdf?sequence
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 67.
+(Font)              <7> on input line 14.
+! Missing $ inserted.
+<inserted text> 
+                $
+l.15 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
 
-[1
 
-{C:/Users/Hotr/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] (clanok.bbl) 
-[2] (clanok.aux)
+Overfull \hbox (38.53084pt too wide) in paragraph at lines 14--15
+[]\IL2/cmr/m/n/10 https://www.theseus.fi/bitstream/handle/10024/171552/Mether$[
+]\OML/cmm/m/it/10 etra:pdf\OT1/cmr/m/n/10 ?\OML/cmm/m/it/10 sequence$ 
+ []
+
+) [1
+
+{C:/Users/Hotr/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
+(clanok.bbl [2]) [3] (clanok.aux)
 Package rerunfilecheck Info: File `clanok.out' has not changed.
 (rerunfilecheck)             Checksum: DCA731DA2FC82593BB099E907EB500F3;982.
  ) 
 Here is how much of TeX's memory you used:
- 9828 strings out of 478338
- 157738 string characters out of 2837172
- 472490 words of memory out of 3000000
- 28105 multiletter control sequences out of 15000+600000
+ 9841 strings out of 478338
+ 157909 string characters out of 2837172
+ 473490 words of memory out of 3000000
+ 28114 multiletter control sequences out of 15000+600000
  482597 words of font info for 59 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 72i,8n,77p,335b,541s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 72i,8n,77p,705b,605s stack positions out of 10000i,1000n,20000p,200000b,80000s
  <C:\Users\Hotr\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\cs
-bx10.pk> <C:\Users\Hotr\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600
-\tcrm1000.pk> <C:\Users\Hotr\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfont
-s/dpi600\csbx12.pk> <C:\Users\Hotr\AppData\Local\MiKTeX\fonts/pk/ljfour/public/
-csfonts/dpi600\cssl10.pk> <C:\Users\Hotr\AppData\Local\MiKTeX\fonts/pk/ljfour/p
-ublic/csfonts/dpi600\csr6.pk> <C:\Users\Hotr\AppData\Local\MiKTeX\fonts/pk/ljfo
-ur/public/csfonts/dpi600\csr8.pk> <C:\Users\Hotr\AppData\Local\MiKTeX\fonts/pk/
-ljfour/jknappen/ec/dpi600\tcrm0600.pk> <C:\Users\Hotr\AppData\Local\MiKTeX\font
-s/pk/ljfour/public/csfonts/dpi600\csti10.pk> <C:\Users\Hotr\AppData\Local\MiKTe
-X\fonts/pk/ljfour/public/csfonts/dpi600\csr7.pk> <C:\Users\Hotr\AppData\Local\M
-iKTeX\fonts/pk/ljfour/public/csfonts/dpi600\cstt10.pk> <C:\Users\Hotr\AppData\L
+r6.pk> <C:\Users\Hotr\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi60
+0\csbx10.pk> <C:\Users\Hotr\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dp
+i600\tcrm1000.pk> <C:\Users\Hotr\AppData\Local\MiKTeX\fonts/pk/ljfour/public/cs
+fonts/dpi600\csbx12.pk> <C:\Users\Hotr\AppData\Local\MiKTeX\fonts/pk/ljfour/pub
+lic/csfonts/dpi600\csti10.pk> <C:\Users\Hotr\AppData\Local\MiKTeX\fonts/pk/ljfo
+ur/public/csfonts/dpi600\csr7.pk> <C:\Users\Hotr\AppData\Local\MiKTeX\fonts/pk/
+ljfour/public/csfonts/dpi600\cstt10.pk> <C:\Users\Hotr\AppData\Local\MiKTeX\fon
+ts/pk/ljfour/public/csfonts/dpi600\cssl10.pk> <C:\Users\Hotr\AppData\Local\MiKT
+eX\fonts/pk/ljfour/public/csfonts/dpi600\csr8.pk> <C:\Users\Hotr\AppData\Local\
+MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm0600.pk> <C:\Users\Hotr\AppData\L
 ocal\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csr10.pk> <C:\Users\Hotr\AppD
 ata\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi720\csbx12.pk> <C:\Users\Hot
 r\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csbx9.pk> <C:\User
@@ -357,10 +385,13 @@ s\Hotr\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\cstt9.pk> <C:
  <C:\Users\Hotr\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csr1
 2.pk> <C:\Users\Hotr\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tc
 rm1200.pk> <C:\Users\Hotr\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/d
-pi600\csr17.pk>
-Output written on clanok.pdf (2 pages, 131410 bytes).
+pi600\csr17.pk><C:/Users/Hotr/AppData/Local/Programs/MiKTeX/fonts/type1/public/
+amsfonts/cm/cmmi10.pfb><C:/Users/Hotr/AppData/Local/Programs/MiKTeX/fonts/type1
+/public/amsfonts/cm/cmmi7.pfb><C:/Users/Hotr/AppData/Local/Programs/MiKTeX/font
+s/type1/public/amsfonts/cm/cmr10.pfb>
+Output written on clanok.pdf (3 pages, 168105 bytes).
 PDF statistics:
- 481 PDF objects out of 1000 (max. 8388607)
- 23 named destinations out of 1000 (max. 500000)
+ 515 PDF objects out of 1000 (max. 8388607)
+ 24 named destinations out of 1000 (max. 500000)
  65 words of extra memory for PDF output out of 10000 (max. 10000000)
 

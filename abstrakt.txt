@@ -1,0 +1,24 @@
+
+Character customization in video games
+
+
+
+This article will go over the history and evolution of character customization in games, also it will implement studies that go over how character customization can affect the games, and how it can benefit said games both from a storytelling narrative , sales and recognition. Character customization is often overlooked and underused in games, looked at as a secondary or tertiary concern, that could otherwise prove a beneficial asset to games in question. This article is aimed at showing what can be gained by enhancing the user experience true improving character or avatar customization, if it's just for the user himself or the game developer. 
+
+
+Odkazy: 
+
+R. Ng and R. Lindgren, "Examining the effects of avatar customization and narrative on engagement and learning in video games," Proceedings of CGAMES'2013 USA, 2013, pp. 87-90, doi: 10.1109/CGames.2013.6632611.  
+https://ieeexplore.ieee.org/abstract/document/6632611
+
+https://www.theseus.fi/bitstream/handle/10024/171552/Mether_Petra.pdf?sequence
+
+Keunyeong Kim, Michael G. Schmierbach, Saraswathi (Saras) Bellur, Mun-Young Chung, Julia Daisy Fraustino, Frank Dardis, Lee Ahern,
+Is it a sense of autonomy, control, or attachment? Exploring the effects of in-game customization on game enjoyment,
+Computers in Human Behavior,
+Volume 48,
+2015,
+Pages 695-705,
+ISSN 0747-5632,
+
+https://www.sciencedirect.com/science/article/pii/S0747563215001090
